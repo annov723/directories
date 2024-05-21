@@ -1,0 +1,3 @@
+/home/phoenix/programming/c_plus/PO1/lab111/build/CMakeFiles/company.dir
+/home/phoenix/programming/c_plus/PO1/lab111/build/CMakeFiles/edit_cache.dir
+/home/phoenix/programming/c_plus/PO1/lab111/build/CMakeFiles/rebuild_cache.dir

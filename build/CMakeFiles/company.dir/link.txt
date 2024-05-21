@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/company.dir/Main.cpp.o CMakeFiles/company.dir/src/Dir.cpp.o CMakeFiles/company.dir/src/FSElement.cpp.o CMakeFiles/company.dir/src/File.cpp.o CMakeFiles/company.dir/src/Link.cpp.o CMakeFiles/company.dir/src/User.cpp.o -o company 
